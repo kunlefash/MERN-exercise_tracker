@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1645343474777,
+	"update": {
+		"latest": "3.2.0",
+		"current": "2.1.1",
+		"type": "major",
+		"name": "near-cli"
+	}
+}
